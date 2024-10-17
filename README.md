@@ -11,3 +11,6 @@ Informações Detalhadas: Para cada destino, há uma seção dedicada com curios
 Responsivo: Adaptável a qualquer dispositivo, seja desktop, tablet ou smartphone.
 
 Tecnologias Usadas: HTML, CSS, JavaScript (com animações em CSS e bibliotecas JS).
+
+
+LINK DO PROJETO: https://pontos-turisticos-alpha.vercel.app/
